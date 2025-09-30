@@ -1,0 +1,183 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "أغربية - شريك النمو اللي يتحمل المسؤولية",
+  "description": "نرفع مبيعاتك خلال 90 يوم… وإلا نرجع رسومنا. شريك نمو يلتزم بالنتائج ويقدم ضمان مكتوب بالعقد.",
+  "url": "https://aghrba.com",
+  "potentialAction": {
+    "@type": "Action",
+    "name": "احجز جلستك المجانية",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://aghrba.com/#cta-form",
+      "actionPlatform": [
+        "http://schema.org/DesktopWebPlatform",
+        "http://schema.org/MobileWebPlatform"
+      ]
+    }
+  },
+  "breadcrumb": {
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "الرئيسية",
+        "item": "https://aghrba.com"
+      }
+    ]
+  },
+  "mainEntity": {
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "لو ما تحققت النتيجة؟",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "نرجّع رسوم إدارتنا. (ميزانية الإعلانات عليك)."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "مدة العقد؟",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "أول ٣ أشهر، بعدها شهري."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "كم أحتاج ميزانية؟",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "نوصّي من ٥٠٠٠ ريال/درهم وفوق حسب السوق."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "على أي منصات؟",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "نختار الأنسب لسوقك (مثلاً: ميتا، جوجل، تيك توك… حسب الجمهور)."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "ليش ما تعرضون سابقة أعمال؟",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "لأن النتيجة اللي نحققها لك هي المعيار الحقيقي — وضماننا مكتوب بالعقد."
+        }
+      }
+    ]
+  },
+  "about": {
+    "@type": "Organization",
+    "name": "أغربية",
+    "description": "شريك نمو يلتزم بالنتائج مع ضمان مكتوب بالعقد",
+    "foundingDate": "2020",
+    "foundingLocation": "السعودية",
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": "السعودية"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "contactType": "customer service",
+      "telephone": "+966500000000",
+      "email": "info@aghrba.com"
+    },
+    "sameAs": [
+      "https://www.facebook.com/aghrba",
+      "https://twitter.com/aghrba",
+      "https://www.instagram.com/aghrba"
+    ],
+    "logo": "https://aghrba.com/assets/images/logo.png"
+  },
+  "hasPart": [
+    {
+      "@type": "WebPageElement",
+      "name": "Hero Section",
+      "cssSelector": "#hero"
+    },
+    {
+      "@type": "WebPageElement",
+      "name": "Who Section",
+      "cssSelector": "#who"
+    },
+    {
+      "@type": "WebPageElement",
+      "name": "Problem Section",
+      "cssSelector": "#problem"
+    },
+    {
+      "@type": "WebPageElement",
+      "name": "Solution Section",
+      "cssSelector": "#solution"
+    },
+    {
+      "@type": "WebPageElement",
+      "name": "Guarantee Section",
+      "cssSelector": "#guarantee"
+    },
+    {
+      "@type": "WebPageElement",
+      "name": "Comparison Section",
+      "cssSelector": "#comparison"
+    },
+    {
+      "@type": "WebPageElement",
+      "name": "Why Now Section",
+      "cssSelector": "#why-now"
+    },
+    {
+      "@type": "WebPageElement",
+      "name": "CTA Form Section",
+      "cssSelector": "#cta-form"
+    },
+    {
+      "@type": "WebPageElement",
+      "name": "FAQ Section",
+      "cssSelector": "#faq"
+    }
+  ],
+  "inLanguage": "ar-SA",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "أغربية",
+    "url": "https://aghrba.com"
+  },
+  "mainContentOfPage": {
+    "@type": "WebContent",
+    "about": [
+      {
+        "@type": "Product",
+        "name": "ضمان النتائج في 90 يوم",
+        "description": "ضمان مكتوب في العقد يضمن رفع المبيعات خلال 90 يوم وإلا نرجع الرسوم"
+      },
+      {
+        "@type": "Service",
+        "name": "شريك نمو",
+        "description": "شريك يتحمل المسؤولية ويركز على أهداف العمل وليس المهام اليومية"
+      }
+    ]
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "أغربية",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://aghrba.com/assets/images/logo.png"
+    }
+  },
+  "review": {
+    "@type": "Review",
+    "reviewBody": "الضمان مكتوب في العقد، ونتائج ملموسة في 90 يوم، وشفافية تامة في التحليلات",
+    "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": "5",
+      "bestRating": "5"
+    }
+  }
+}
